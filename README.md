@@ -20,8 +20,9 @@ Este projeto consiste no desenvolvimento de uma <b>Landing Page Gastronômica</b
 <br>
 
 <h1 align="center"> Preview da Aplicação 📸 </h1>
+<video src="https://github.com/user-attachments/assets/4372e2c8-8f96-498c-ac8f-619b9654fd5c"></video>
 <p align="center">
-  <video src="images/preview-video.mp4" alt="Demonstração da Lá Churreria" width="800" controls autoplay muted loop playinline></video>
+  
 </p>
 
 <br>
