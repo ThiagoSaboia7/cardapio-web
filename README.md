@@ -19,10 +19,18 @@
 
   <br>
 
+<<<<<<< HEAD
   <h1 align="center"> Preview da Aplicação 📸 </h1>
   <p align="center">
     <video src="images/preview-video.mp4" alt="Demonstração da Lá Churreria" width="800" controls autoplay muted loop playinline></video>
   </p>
+=======
+<h1 align="center"> Preview da Aplicação 📸 </h1>
+<video src="https://github.com/user-attachments/assets/4372e2c8-8f96-498c-ac8f-619b9654fd5c"></video>
+<p align="center">
+  
+</p>
+>>>>>>> 464a6b481e41f13208fea3f73370b4f9f0e4e2ed
 
   <br>
 
@@ -93,4 +101,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagosaboia)
   [![E-mail](https://img.shields.io/badge/Apple_Mail-007AFF?style=for-the-badge&logo=apple&logoColor=white)](mailto:thiagosaboia777@icloud.com)
 
+<<<<<<< HEAD
   </div>
+=======
+</div>
+>>>>>>> 464a6b481e41f13208fea3f73370b4f9f0e4e2ed
